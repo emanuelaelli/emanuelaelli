@@ -25,4 +25,6 @@ Below you can find some of my projects that I have done in these years.
 
 <br>
 
-<a href = "https://github.com/emanuelaelli"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/Linkedin_logo.png" alt="Linkedin_logo" width = "2.0%"></a> <a href="https://www.linkedin.com/in/emanuela-elli-82137b206/">Linkedin profile</a>
+### Profiles:
+
+<a href = "https://github.com/emanuelaelli"><a href="https://www.linkedin.com/in/emanuela-elli-82137b206/"> <img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/Linkedin_logo.png" alt="Linkedin_logo" height ="42px" ></a> </a>
