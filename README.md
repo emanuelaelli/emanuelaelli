@@ -20,10 +20,10 @@ Below you can find some of my projects that I have done in these years.
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/emanuelaelli?tab=repositories)
-- 🎓 Background: Bachelor's Degree in Computer Science for New Media at <a href="https://www.unimi.it/it/corsi/corsi-di-laurea/informatica-la-comunicazione-digitale">Università degli Studi di Milano</a>
+- 🔭 &nbsp; I’m currently preparing exams for Data Science course;
+- 🌱 &nbsp; I’m currently studing Text Mining, Service Science and Cybersecurity for Data Science; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/emanuelaelli?tab=repositories);
+- 🎓 &nbsp; Background: Bachelor's Degree in Computer Science for New Media at <a href="https://www.unimi.it/it/corsi/corsi-di-laurea/informatica-la-comunicazione-digitale">Università degli Studi di Milano</a>.
 
 <br>
 
