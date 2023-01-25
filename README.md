@@ -7,6 +7,10 @@
 My name is Emanuela and I am a Data Science student at <a href="https://datascience.disco.unimib.it/it/">Università degli Studi di Milano-Bicocca</a>!
 Below you can find some of my projects that I have done in these years. 
 
+<h5 align="center">
+  <code> <a href="https://www.linkedin.com/in/emanuela-elli-82137b206/" title="LinkedIn Profile"><img width="22" src="https://github.com/emanuelaelli/emanuelaelli/blob/main/Linkedin_logo.png" alt="Linkedin_logo"> LinkedIn</a> </code>
+</h5>
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
@@ -24,8 +28,5 @@ Below you can find some of my projects that I have done in these years.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></a>
 
+
 <br>
-
-### Profiles:
-
-<a href = "https://github.com/emanuelaelli"><a href="https://www.linkedin.com/in/emanuela-elli-82137b206/"> <img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/Linkedin_logo.png" alt="Linkedin_logo" height ="42px" ></a> </a>
