@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I+am+Emanuela+and;welcome+to+my+page!✨&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I+am+Emanuela+and;welcome+to+my+page!✨&center=true&size=30&color=6e87f5">
   </a>
 </h1>
 
@@ -9,7 +9,7 @@ Below you can find some of my projects that I have done in these years.
 
 <div align='center'>
   <p align='center'>
-    <code> <a href="https://www.linkedin.com/in/emanuela-elli-82137b206/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a> LinkedIn </code>&nbsp;&nbsp;
+    <code> <a href="https://www.linkedin.com/in/emanuela-elli-82137b206/"><img height="30" src="https://github.com/emanuelaelli/emanuelaelli/blob/main/images/linkedin.png?raw=true"></a> LinkedIn </code>&nbsp;&nbsp;
     
  <!-- <a href=" ---- "><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto: ---- "><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
