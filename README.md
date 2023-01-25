@@ -1,4 +1,8 @@
-### Hi there and welcome to my GitHub page👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I+am+Emanuela+and;welcome+to+my+page!✨&center=true&size=30">
+  </a>
+</h1>
 
 My name is Emanuela and I am a Data Science student at <a href="https://datascience.disco.unimib.it/it/">Università degli Studi di Milano-Bicocca</a>!
 Below you can find some of my projects that I have done in these years. 
