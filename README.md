@@ -7,9 +7,16 @@
 My name is Emanuela and I am a Data Science student at <a href="https://datascience.disco.unimib.it/it/">Università degli Studi di Milano-Bicocca</a>!
 Below you can find some of my projects that I have done in these years. 
 
-<h5 align="center">
-  <code> <a href="https://www.linkedin.com/in/emanuela-elli-82137b206/" title="LinkedIn Profile"><img width="22" src="https://github.com/emanuelaelli/emanuelaelli/blob/main/Linkedin_logo.png" alt="Linkedin_logo"> LinkedIn</a> </code>
-</h5>
+<div align='center'>
+  <p align='center'>
+    <code> <a href="https://www.linkedin.com/in/emanuela-elli-82137b206/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a> LinkedIn </code>&nbsp;&nbsp;
+    
+ <!-- <a href=" ---- "><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto: ---- "><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  -->
+    
+</p> 
+</div>
 
 ### 🧐 More About Me:
 
